@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm i -g lerna`
+chạy lệnh install global lerna cài đặt thư viện lerna để update các thư viện trong project
+
+### `yarn bootstrap`
+update lại các thư việc của app
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
